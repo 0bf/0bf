@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello! im <img src="https://cdn.discordapp.com/attachments/1110628587658289284/1133544884750524477/image0.gif" width="30px"> Mogaly</h1>
+<h1 align="center">Mogal;y <img src="https://cdn.discordapp.com/attachments/1110628587658289284/1133544884750524477/image0.gif" width="30px">.</h1>
 
 simple man
 
